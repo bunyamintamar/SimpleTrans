@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rsrc">
+        <file>engFlag.png</file>
+        <file>trFlag.png</file>
+        <file>translateIcon.png</file>
+    </qresource>
+</RCC>
