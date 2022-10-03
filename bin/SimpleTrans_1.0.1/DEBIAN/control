@@ -1,7 +1,7 @@
 Package: SimpleTrans
-Version: 1.0
+Version: 1.0.1
 Architecture: all
 Author: Bünyamin TAMAR
 Maintainer: <bunyamintamar@yandex.com>
-Homepage: https://github.com/bunyamintamar/SimpleTrans
+Homepage: https://github.com/bunyamintamar/SimpleTrans/releases
 Description: A simple translator app that uses google in the background

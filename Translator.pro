@@ -4,8 +4,8 @@ APP_NAME        =   SimpleTrans
 DESCRIPTION     =   "A simple translator app that uses google in the background"
 AUTHOR          =   "Bünyamin TAMAR"
 AUTHOR_MAIL     =   "bunyamintamar@yandex.com"
-GITHUB_LINK     =   github.com/bunyamintamar/SimpleTrans
-VERSION         =   1.0
+GITHUB_LINK     =   github.com/bunyamintamar/SimpleTrans/releases
+VERSION         =   1.0.1
 ###################################################################
 ###################################################################
 
