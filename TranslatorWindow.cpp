@@ -63,6 +63,7 @@ void TranslatorWindow::showAbout()
     QString text;
     text.append(APP_NAME).append(" ").append(APP_VERSION);
     text.append("\nby ").append(AUTHOR);
+    text.append("\n").append(AUTHOR_MAIL);
     QLabel *label = new QLabel(text);
     label->setAlignment(Qt::AlignHCenter);
 
