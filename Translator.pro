@@ -29,6 +29,7 @@ HEADERS         +=  $$files("*.h",   false)
 SOURCES         +=  $$files("*.cpp", false)
 FORMS           +=  $$files("*.ui",  false)
 RESOURCES       +=  resources.qrc
+DISTFILES       +=  README.md
 
 TARGET          =   $${APP_NAME}
 
